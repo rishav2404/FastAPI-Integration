@@ -1,0 +1,8 @@
+.env
+__pycache__
+venv
+*.pyc
+assets/
+dump.rdb
+package-lock.json
+.DS_Store
